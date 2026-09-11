@@ -4,9 +4,9 @@
 class Vibestation < Formula
   desc "One picker for your tmux sessions and git projects"
   homepage "https://github.com/antondudakov/vibestation"
-  url "https://github.com/antondudakov/vibestation/releases/download/v0.1.0/vibestation-macos"
-  sha256 "421f7244fdc1cfa49fb69b4d5b18959fb753f74d796ea10975ad5563d9cd73af"
-  version "0.1.0"
+  url "https://github.com/antondudakov/vibestation/releases/download/v1.0.0/vibestation-macos"
+  sha256 "d6a43c39b1eda3939dc9ee3deaa353038bbeb26c12044f3891ca6fc43b8d4c9b"
+  version "1.0.0"
   license "MIT"
 
   # The bottle is a universal macOS binary; Linux installs the musl binary
