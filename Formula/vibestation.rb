@@ -5,7 +5,7 @@ class Vibestation < Formula
   desc "One picker for your tmux sessions and git projects"
   homepage "https://github.com/antondudakov/vibestation"
   url "https://github.com/antondudakov/vibestation/releases/download/v0.1.0/vibestation-macos"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "421f7244fdc1cfa49fb69b4d5b18959fb753f74d796ea10975ad5563d9cd73af"
   version "0.1.0"
   license "MIT"
 
